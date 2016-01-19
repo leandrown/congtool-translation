@@ -1,12 +1,15 @@
 {
     "app": {
-      "name": "i18n1",
-      "insert": "you are __youAre__",
-      "child": "__count__ child",
-      "child_plural": "__count__ children",
-      "fieldEmailRequired" :"Campo Obrigatório PT",
-      "friend_context": "A friend",
-      "friend_context_male": "A boyfriend",
-      "friend_context_female": "A girlfriend"
+      "loginTitle": "INICIAR SESIÓN",
+      "loginUserName": "Nombre de usuario",
+      "loginPwd": "Contraseña",
+      "loginForgotPwd": "¿Ha olvidado su contraseña?",
+      "loginButtonEnter": "ENTRAR",
+      "accessCongtool": "TENER ACCESO A CONGTOOL:",
+      "accessText": "Si desea utilizar nuestro sistema de designaciones para el tablón de anuncios ya con el nuevo formato de reunión, no dude en hacer el registro de su correo electrónico de una manera muy simple.",
+      "loginButtonTest": "PROBAR AHORA",
+      "langEnglish": "Inglés (US)",
+      "langPortuguese": "Portugués (BR)",
+      "langSpanish": "Español (ES)"
     }
 }

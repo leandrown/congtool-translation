@@ -1,12 +1,15 @@
 {
     "app": {
-      "name": "i18n1",
-      "insert": "you are __youAre__",
-      "child": "__count__ child",
-      "child_plural": "__count__ children",
-      "fieldEmailRequired" :"Field Required EN",
-      "friend_context": "A friend",
-      "friend_context_male": "A boyfriend",
-      "friend_context_female": "A girlfriend"
+      "loginTitle": "LOGIN",
+      "loginUserName": "User Name",
+      "loginPwd": "Password",
+      "loginForgotPwd": "Forgot your password?",
+      "loginButtonEnter": "ENTER",
+      "accessCongtool": "HAVING ACCESS TO CONGTOOL:",
+      "accessText": "If you want to use our designation system for the notice board with the new meeting format, feel free to register your e-mail in a very simple way.",
+      "loginButtonTest": "TEST NOW",
+      "langEnglish": "English (US)",
+      "langPortuguese": "Portuguese (BR)",
+      "langSpanish": "Spanish (ES)"
     }
 }
