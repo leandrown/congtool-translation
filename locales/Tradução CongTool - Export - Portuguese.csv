@@ -1,0 +1,223 @@
+Variáveis,pt-BR
+pageTitle,CongTool - Português
+loginTitle,LOGIN
+inputUsername,Nome de usuário
+inputPwd,Senha
+msgEmailPwdInvalid,E-mail ou senha inválido
+msgFieldRequired,Campo obrigatório
+msgForgotPwd,Esqueceu sua senha?
+buttonEnter,ENTRAR
+accessTitle,PARA TER ACESSO AO CONGTOOL:
+accessText,"Se você deseja usar nosso sistema de designações para o quadro de anúncios já com o novo formato de Reuniões, fique à vontade para criar sua conta de uma forma bem simples."
+buttonTest,TESTAR AGORA
+langEnglish,Inglês (US)
+langPortuguese,Português (BR)
+langSpanish,Espanhol (ES)
+needHelp,Precisa de ajuda?
+forgotPwdTitle,ESQUECEU SENHA
+inputEmail,E-mail
+msgInvalidEmail,E-mail inválido
+buttonSubmit,ENVIAR
+registerTitle,CRIAR NOVA CONTA
+inputName,Nome
+inputEmail,E-mail
+inputEnterPwd,Informe uma senha
+inputConfirmPwd,"Confirme sua senha / 
+Digite a senha novamente"
+msgFieldRequired,Campo obrigatório
+msgInvalidEmail,E-mail inválido
+msgPwdInvalid,A senha deve ter pelo menos 6 caracteres
+msgPwdNotMatch,As senhas não são iguais
+buttonRegister,CRIAR CONTA
+haveAccount,"Eu já tenho uma conta, quero entrar"
+checkCodeTitle,CÓDIGO DE CONFIRMAÇÃO
+checkCodeText,Um código foi enviado para o e-mail informado na etapa anterior. Insira o código recebido no campo abaixo para prosseguir.
+inputCode,Informe o código aqui
+msgInvalidCode,Código incorreto. Tente novamente.
+buttonContinue,PROSSEGUIR
+congNameTitle,CRIAR CONTA DE CONGREGAÇÃO
+congNameText,Sua conta não está vinculada a nenhuma Congregação ainda. Crie uma nova conta de congregação para ter acesso às designações.
+inputCongName,Nome da Congregação
+msgFieldRequired,Campo obrigatório
+buttonContinue,PROSSEGUIR
+weekDayTitle,DIAS DE REUNIÃO
+weekDay1,SEG
+weekDay2,TER
+weekDay3,QUA
+weekDay4,QUI
+weekDay5,SEX
+weekDay6,SÁB
+weekDay7,DOM
+selectWeedDay01,Segunda
+selectWeedDay02,Terça
+selectWeedDay03,Quarta
+selectWeedDay04,Quinta
+selectWeedDay05,Sexta
+selectWeedDay06,Sábado
+selectWeedDay07,Domingo
+meetingMidweek,Nossa Vida e Ministério Cristão
+meetingWeekend,Reunião Pública
+buttonSave,SALVAR
+userGreeting,"Olá, <nome>"
+userEdit,Editar
+userQuit,Sair
+tabMeeting1,Vida e Ministério
+tabMeeting2,Reunião Pública
+meetingMonth1,Janeiro
+meetingMonth2,Fevereiro
+meetingMonth3,Março
+meetingMonth4,Abril
+meetingMonth5,Maio
+meetingMonth6,Junho
+meetingMonth7,Julho
+meetingMonth8,Agosto
+meetingMonth9,Setembro
+meetingMonth10,Outubro
+meetingMonth11,Novembro
+meetingMonth12,Dezembro
+selectPeriod,SELECIONE O PERÍODO
+selectMonth1,JAN
+selectMonth2,FEV
+selectMonth3,MAR
+selectMonth4,ABR
+selectMonth5,MAI
+selectMonth6,JUN
+selectMonth7,JUL
+selectMonth8,AGO
+selectMonth9,SET
+selectMonth10,OUT
+selectMonth11,NOV
+selectMonth12,DEZ
+buttonSaveBig,SALVAR
+msgNoSchedule,Não há nenhuma programação para o periodo solicitado. Selecione uma data a partir de <20/01/16>
+msgNoAccess,Você não possui permissão de acesso. Contate o administrador da conta.
+menuTable,Tabela de Designações
+menuPeople,Pessoas e Designações
+menuPermition,Permissões
+menuPrint,Impressões
+menuCong,Congregações
+tabTable,TABELA DE DESIGNAÇÕES
+tabPeople,PESSOAS E DESIGNAÇÕES
+tabPermition,PERMISSÕES
+tabPrint,IMPRESSÕES
+inputSearch,Busque ou adicione pessoas
+searchText,"Encontre ou adicione pessoas usando o campo acima. Em seguida, selecione-as na lista e relacione as atividades em que elas deverão participar."
+buttonAdd,Adicionar: <nome>
+buttonSaveSmall,Salvar
+buttonExclude,Excluir
+listRefTitle,REFERÊNCIA
+listStudentM,Estudante (irmãos)
+listStudentF,Estudante (irmãs)
+listBaptized,Batizado
+listResp,Dianteira
+listAssignTitle,DESIGNAÇÕES
+listAttendant,Indicador
+listMicrophone,Microfone
+listPray,Oração
+ListRead,Leitura da Bíblia
+listVideo,Prepare as apresentações deste mês (vídeos)
+listPresentB,Demonstração (aluna e ajudante)
+listPresentS,Demonstração (aluno e ajudante)
+listConductCbs,Dirigente do Estudo Bíblico de Congregação
+listReadCbs,Leitor de Estudo Bíblico de Congregação
+listReadW,Leitor de A Sentinela
+listChairmanOlm,Presidente de Nossa Vida e Ministério
+listChairmanPm,Presidente da Reunião Pública
+listTreasureTalk,Tesouros da Palavra de Deus – Discurso
+listFindGems,Encontre Jóias Espirituais
+listLiving,Nossa Vida Cristã
+inputIncludeAdm,Incluir administrador
+includeText,Escreva o nome do administrador que deseja incluir usando o campo acima. Em seguida selecione-o na lista e relacione as atividades em que ele deverá participar.
+inputAddEmail,Informe o e-mail
+msgEmailRegistered,E-mail já cadastrado
+tabEdit,EDITAR
+buttonSaveSmall,Salvar
+editMail,EDITAR E-MAIL
+editPwd,EDITAR SENHA
+editCongregation,CRIAR OU EDITAR CONGREGAÇÃO
+buttonSubmitSmall,Enviar
+inputEnterEmail,Informe o e-mail
+buttonEdit,Editar
+buttonChange,Alterar
+inputCongName,Nome da Congregação
+headPrayer,ORAÇÃO
+headChairman,PRESIDENTE
+headTalk,DISCURSO
+headDiggingGems,ENCONTRE JÓIAS ESPIRITUAIS
+headBibleRead,LEITURA DA BÍBLIA
+headFcall,PRIMEIRA VISITA
+headRvisit,REVISITA
+headBstudy,ESTUDO BÍBLICO
+headAttendant,INDICADOR
+headMicrofone,MICROFONE
+headClean,LIMPEZA
+listAddRemovePeople,Adicionar/remover pessoas...
+msgBeingUsed,Sendo usado em Indicadores
+msgAlreadyAssigned,Já possui designação para este dia
+study01,1 Leitura exata
+study02,2 Articulação clara
+study03,3 Pronúncia correta
+study04,4 Fluência
+study05,5 Uso correto de pausas
+study06,6 Ênfase segundo o sentido
+study07,7 Ênfase nas ideias principais
+study08,8 Volume apropriado
+study09,9 Modulação
+study10,10 Entusiasmo
+study11,11 Cordialidade e sentimento
+study12,12 Gestos e expressões faciais
+study13,13 Contato visual
+study14,14 Naturalidade
+study15,15 Boa aparência
+study16,16 Equilíbrio
+study17,17 Uso do microfone
+study18,18 Uso da Bíblia ao responder a perguntas
+study19,19 Incentivo ao uso da Bíblia
+study20,20 Introdução eficaz de textos bíblicos
+study21,21 Leitura de textos com ênfase adequada
+study22,22 Aplicação correta dos textos
+study23,23 Esclarecer o valor prático da matéria
+study24,24 Escolha de palavras
+study25,25 Uso de esboço
+study26,26 Apresentação lógica da matéria
+study27,27 Proferimento espontâneo
+study28,28 Estilo conversante
+study29,29 Qualidade da voz
+study30,30 Mostrar interesse nos outros
+study31,31 Respeito pelos outros
+study32,32 Falar com convicção
+study33,"33 Falar com tato, mas de modo firme"
+study34,34 Ser edificante e positivo
+study35,35 Repetição para dar ênfase
+study36,36 Desenvolvimento do tema
+study37,37 Destacar os pontos principais
+study38,38 Introdução que desperta interesse
+study39,39 Conclusão eficaz
+study40,40 Exatidão das declarações
+study41,41 Clareza
+study42,42 Apresentação instrutiva
+study43,43 Usar a matéria designada
+study44,44 Uso eficaz de perguntas
+study45,45 Ilustrações instrutivas
+study46,46 Ilustrações baseadas em situações conhecidas
+study47,47 Uso eficaz de recursos visuais
+study48,48 Argumentação que estimula o raciocínio
+study49,49 Argumentos convincentes
+study50,50 Tocar o coração
+study51,51 Controle e boa distribuição do tempo
+study52,52 Exortação eficaz
+study53,53 Encorajar e fortalecer os ouvintes
+tooltipNotes,Ver Notas
+tooltipAttendant,Editar Indicadores
+tooltipCleaning,Editar grupos de limpeza
+notesTitle,NOTAS - <data>
+notesDate,em <data>
+inputNotes,Escreva aqui suas observações e notas
+attendantTitle,INDICADORES E MICROFONES
+assignmentAttendant,Designação de indicadores
+assignmentMicrophone,Designação de microfones
+dateOnly,Apenas essa data
+dateFrom,A partir dessa data
+cleaningTitle,GRUPOS DE LIMPEZA
+inputGroup,Informe o nome do grupo
+buttonInclude,INCLUIR

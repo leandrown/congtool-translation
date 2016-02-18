@@ -1,0 +1,223 @@
+Variáveis,es-ES
+pageTitle,CongTool - Español
+loginTitle,INICIAR SESIÓN
+inputUsername,Nombre de usuario
+inputPwd,Contraseña
+msgEmailPwdInvalid,La entrada es inválida
+msgFieldRequired,Este campo es obligatorio
+msgForgotPwd,¿Ha olvidado su contraseña?
+buttonEnter,INICIAR SESIÓN
+accessTitle,TENER ACCESO A CONGTOOL:
+accessText,"Si desea utilizar nuestro sistema de designaciones para el tablero de anuncios ya con el nuevo formato de reunión, siéntase libre para crear su cuenta de forma muy sencilla."
+buttonTest,PROBAR AHORA
+langEnglish,Inglés (US)
+langPortuguese,Portugués (BR)
+langSpanish,Español (ES)
+needHelp,¿Necesita ayuda?
+forgotPwdTitle,NO RECURERDA CONTRASEÑA
+inputEmail,Correo electrónico
+msgInvalidEmail,El correo electrónico es inválido
+buttonSubmit,ENVIAR
+registerTitle,CREAR UNA CUENTA
+inputName,Nombre
+inputEmail,Correo electrónico
+inputEnterPwd,Introducir una contraseña
+inputConfirmPwd,"Introduzca de nuevo la contraseña /
+Reescriba la contraseña"
+msgFieldRequired,Este campo es obligatorio
+msgInvalidEmail,El correo electrónico es inválido
+msgPwdInvalid,Las contraseñas deben tener por lo menos 6 caracteres
+msgPwdNotMatch,Las contraseñas no coinciden
+buttonRegister,CREAR CUENTA
+haveAccount,"Ya tengo una cuenta, iniciar la sesión"
+checkCodeTitle,CÓDIGO DE CONFIRMACIÓN
+checkCodeText,Un código fue enviado al correo electrónico informado en el paso anterior. Introduzca el código que ha recibido para continuar.
+inputCode,Introduzca el código aquí
+msgInvalidCode,El código es incorrecto. Inténtalo de nuevo.
+buttonContinue,CONTINUAR
+congNameTitle,CREAR CUENTA DE CONGREGACIÓN
+congNameText,Su cuenta no está vinculada a ninguna Congregación todavía. Crear una nueva cuenta de la congregación para acceder a las asignaciones.
+inputCongName,Nombre de la Congregación
+msgFieldRequired,Este campo es obligatorio
+buttonContinue,CONTINUAR
+weekDayTitle,DÍAS DE REUNIÓN
+weekDay1,LUN
+weekDay2,MAR
+weekDay3,MIÉ
+weekDay4,JUE
+weekDay5,VIE
+weekDay6,SÁB
+weekDay7,DOM
+selectWeedDay01,Lunes
+selectWeedDay02,Martes
+selectWeedDay03,Miércoles
+selectWeedDay04,Jueves
+selectWeedDay05,Viernes
+selectWeedDay06,Sábado
+selectWeedDay07,Domingo
+meetingMidweek,Vida y Ministerio Cristianos
+meetingWeekend,Reunión Pública
+buttonSave,GUARDAR
+userGreeting,"Holla, <nombre>"
+userEdit,Editar
+userQuit,Cerrar sesión
+tabMeeting1,Vida y Ministerio
+tabMeeting2,Reunión Pública
+meetingMonth1,Enero
+meetingMonth2,Febrero
+meetingMonth3,Marzo
+meetingMonth4,Abril
+meetingMonth5,Mayo
+meetingMonth6,Junio
+meetingMonth7,Julio
+meetingMonth8,Agosto
+meetingMonth9,Septiembre
+meetingMonth10,Octubre
+meetingMonth11,Noviembre
+meetingMonth12,Diciembre
+selectPeriod,SELECCIONE EL PERÍODO
+selectMonth1,ENE
+selectMonth2,FEB
+selectMonth3,MAR
+selectMonth4,ABR
+selectMonth5,MAY
+selectMonth6,JUN
+selectMonth7,JUL
+selectMonth8,AGO
+selectMonth9,SEP
+selectMonth10,OCT
+selectMonth11,NOV
+selectMonth12,DIC
+buttonSaveBig,GUARDAR
+msgNoSchedule,No hay horario para el período solicitado. Seleccione una fecha del <01/20/16>
+msgNoAccess,Usted no tiene permiso para acceder. Póngase en contacto con administrador de la cuenta.
+menuTable,Tabla de Asignaciones
+menuPeople,Personas y Asignaciones
+menuPermition,Permisos
+menuPrint,Impresiones
+menuCong,Congregaciones
+tabTable,TABLA DE ASIGNACIONES
+tabPeople,PERSONAS Y ASIGNACIONES
+tabPermition,PERMISOS
+tabPrint,IMPRECIONES
+inputSearch,Buscar o agregar personas
+searchText,"Buscar o agregar personas en el campo de arriba. A continuación, seleccione en la lista y combinar las actividades que cada persona va a participar."
+buttonAdd,Agrega: <nombre>
+buttonSaveSmall,Guardar
+buttonExclude,Eliminar
+listRefTitle,REFERENCIA
+listStudentM,Estudiante (hermanos)
+listStudentF,Estudiante (hermanas)
+listBaptized,Bautizado
+listResp,Encargado
+listAssignTitle,ASIGNACIONES
+listAttendant,Acomodador
+listMicrophone,Micrófono
+listPray,Oración
+ListRead,Lectura de la Biblia
+listVideo,Preparemos las presentaciones de este mes
+listPresentB,Demostración (hermana y ayudante)
+listPresentS,Demostración (hermano y ayudante)
+listConductCbs,Conductor del Estudio Bíblico de la Congregación
+listReadCbs,Lector del Estudio de La Atalaya
+listReadW,Conductor del Estudio de La Atalaya
+listChairmanOlm,Presidente de la Reunión Vida y Ministerio
+listChairmanPm,Presidente de la Reunión Pública
+listTreasureTalk,Tesoros de la Biblia – Discurso
+listFindGems,Busquemos perlas escondidas
+listLiving,Nuestra Vida Cristiana
+inputIncludeAdm,Incluya administrador
+includeText,"Escriba el nombre del administrador que desea incluir utilizando el campo de arriba. A continuación, seleccione en la lista y combinar las actividades que va a participar."
+inputAddEmail,Regístre-se e-mail
+msgEmailRegistered,E-mail ya registrada
+tabEdit,EDITAR
+buttonSaveSmall,Guardar
+editMail,EDITAR CORREO ELECTRÓNICO
+editPwd,EDITAR CONTRASEÑA
+editCongregation,CREAR O EDITAR CONGREGACIÓN
+buttonSubmitSmall,Enviar
+inputEnterEmail,Introduzca el correo electrónico
+buttonEdit,Editar
+buttonChange,Cambiar
+inputCongName,Nombre de la Congregación
+headPrayer,ORACIÓN
+headChairman,PRESIDENTE
+headTalk,DISCURSO
+headDiggingGems,BUSQUEMOS PERLAS ESCONDIDAS
+headBibleRead,LECTURA DE LA BIBLIA
+headFcall,PRIMERA CONVERSASÍON
+headRvisit,REVISITA
+headBstudy,CURSO BÍBLICO
+headAttendant,ACOMODADOR
+headMicrofone,MICRÓFONO
+headClean,LIMPIEZA DEL SALÓN DEL REINO
+listAddRemovePeople,Añadir/eliminar personas
+msgBeingUsed,Siendo utilizado como Acomodador
+msgAlreadyAssigned,Ya asignada a este día
+study01,1 Lectura precisa
+study02,2 Articulación clara
+study03,3 Pronunciación correcta
+study04,4 Fluidez
+study05,5 Uso adecuado de las pausas
+study06,6 Énfasis acertado
+study07,7 Énfasis en las ideas principales
+study08,8 Volumen adecuado
+study09,9 Modulación
+study10,10 Entusiasmo
+study11,11 Afecto y otros sentimientos
+study12,12 Ademanes y expresiones faciales
+study13,13 Contacto visual
+study14,14 Naturalidad
+study15,15 Buena apariencia
+study16,16 Aplomo
+study17,17 Buen uso del micrófono
+study18,18 Uso de la Biblia para contestar preguntas
+study19,19 Animar a emplear la Biblia
+study20,20 Introducción eficaz a los textos bíblicos
+study21,21 Lectura de textos bíblicos con el énfasis debido
+study22,22 Empleo correcto de los textos bíblicos
+study23,23 Resaltar el valor práctico
+study24,24 Buen uso del vocabulario
+study25,25 Uso de un bosquejo
+study26,26 Desarrollo lógico de la información
+study27,27 Improvisar las palabras a partir del bosquejo
+study28,28 Tono conversacional
+study29,29 Calidad de la voz
+study30,30 Interés en los oyentes
+study31,31 Respeto a los demás
+study32,32 Expresarse con convicción
+study33,"33 Hablar con tacto, pero con firmeza"
+study34,34 Ser edificante y positivo
+study35,35 Repetición para dar énfasis
+study36,36 Desarrollo del tema
+study37,37 Destacar los puntos principales
+study38,38 Introducciones que despiertan interés
+study39,39 Conclusiones eficaces
+study40,40 Exactitud en las afirmaciones
+study41,41 Claridad en la exposición
+study42,42 Exposición instructiva para el auditorio
+study43,43 Utilizar la información asignada
+study44,44 Uso eficaz de las preguntas
+study45,45 Ilustraciones instructivas
+study46,46 Ilustraciones basadas en situaciones conocidas
+study47,47 Uso eficaz de medios visuales
+study48,48 Argumentación que induce a razonar
+study49,49 Solidez en la argumentación
+study50,50 Llegar al corazón
+study51,51 Atenerse al tiempo y distribuirlo bien
+study52,52 Exhortación eficaz
+study53,53 Animar y fortalecer al auditorio
+tooltipNotes,Véanse las Notas
+tooltipAttendant,Editar lista de acomodadores
+tooltipCleaning,Editar grupos de limpieza
+notesTitle,NOTAS - <data>
+notesDate,en <data>
+inputNotes,Escriba sus comentarios y notas
+attendantTitle,ACOMODADORES Y MICRÓFONOS
+assignmentAttendant,Asignación de acomodadores
+assignmentMicrophone,Asignación de micrófono
+dateOnly,Sólo de esta facha
+dateFrom,En esta fecha
+cleaningTitle,GRUPOS DE LIMPIEZA
+inputGroup,Introduzca el nombre del grupo
+buttonInclude,INCLUIR
